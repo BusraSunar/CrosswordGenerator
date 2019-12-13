@@ -6,11 +6,15 @@ It is not that efficient and it can sometimes make mistakes. The algorithm that 
 
 ## This is how it works;
 
- **Step1: Enter the grid size**
+ **Step1: Enter the grid size and click generate**
   
   ![](images/beginning.png)
   
   
-  **Step2: click create and then click generate**
+  **Step2: After clicking generate, to see the solved crossword click create and then click generate**
   
   ![](images/grid.png)
+  
+  **Step3: This is the solved crossword**
+  
+  ![](images/solved.png)
