@@ -6,6 +6,11 @@ It is not that efficient and it can sometimes make mistakes. The algorithm that 
 
 ## This is how it works;
 
- **Step1:**
+ **Step1: Enter the grid size**
   
   ![](images/beginning.png)
+  
+  
+  **Step2: click create and then click generate**
+  
+  ![](images/grid.png)
